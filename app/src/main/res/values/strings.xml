@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="my_name">Jeremy</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education:
+        \n\tMiddle School: SJCK Pay Fong 2, Melaka\n
+        \n\tSecondary School: Pay Fong Middle School, Melaka\n
+        \n\tUniversity : TAR UC, Setapak\n
+
+    </string>
+</resources>
